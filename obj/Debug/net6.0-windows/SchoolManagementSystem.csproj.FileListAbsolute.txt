@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\bin\Debug\net6.0-windows\SchoolManagementSystem.exe
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\bin\Debug\net6.0-windows\SchoolManagementSystem.deps.json
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\bin\Debug\net6.0-windows\SchoolManagementSystem.runtimeconfig.json
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\bin\Debug\net6.0-windows\SchoolManagementSystem.dll
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\bin\Debug\net6.0-windows\SchoolManagementSystem.pdb
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.AssemblyInfo.cs
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.dll
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\obj\Debug\net6.0-windows\refint\SchoolManagementSystem.dll
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.pdb
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.genruntimeconfig.cache
+C:\Users\HP\OneDrive - Higher Education Commission\Desktop\School Management\SchoolManagementSystem\obj\Debug\net6.0-windows\ref\SchoolManagementSystem.dll
