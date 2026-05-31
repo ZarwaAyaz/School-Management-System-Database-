@@ -12,7 +12,6 @@ A comprehensive desktop-based School Management System built with **C# Windows F
 - [Project Structure](#project-structure)
 - [Database Setup](#database-setup)
 - [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -192,31 +191,6 @@ The database should include at minimum the following tables:
 
 4. **Build and run**
    - Press `Ctrl + F5` or click **Start** in Visual Studio
-
----
-
-## 📸 Screenshots
-
-
-4. **Embed them in this README** by replacing the placeholder lines below:
-
-```markdown
-### Login Screen
-![Login Screen](screenshots/login.png)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### Student Management
-![Add Student](screenshots/add-student.png)
-
-### Fee Management
-![Fee Management](screenshots/fee-management.png)
-
-### Result Card
-![Result Card](screenshots/result-card.png)
-```
-
 ---
 
 ## 🧑‍💻 Usage
